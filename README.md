@@ -1,6 +1,6 @@
 # Export-score
 Ứng dụng xuất điểm cuối khóa (xem hướng dẫn chi tiết [tại đây](https://w5rk6t08i5b.sg.larksuite.com/docx/EoGcdS0JRovWXMxUEsBlA9hVgxg?from=from_copylink))
-## II. Các lưu ý khi sử dụng
+## I. Các lưu ý khi sử dụng
 ### 1. Về file excel mẫu
 - Bấm vào nút "Sample Excel file" để tải file mẫu excel về sau đó tiến hành chỉnh sửa theo mong muốn
 Lưu ý
@@ -10,7 +10,7 @@ Lưu ý
 - File excel hiển thị như thế nào thì file điểm sau khi xuất sẽ hiện thị như vậy (nên lưu ý các trường có chứa ngày tháng như trường "Ngày chấm", "Ngày đăng kí", "Ngày kết thúc" )
 - Các trường "Ngày chấm", "Ngày đăng kí", "Ngày kết thúc" nên để định dạng là text hoặc khi chỉnh sửa nên để đúng thứ tự ngày tháng mong muốn (nếu không chỉnh sửa được phần mềm sẽ tự động convert về đúng theo định dạng ngày/tháng/năm).
 
-## IV. Giải thích tính năng
+## II. Giải thích tính năng
 ### 1. Upload file excel và chọn sheet cần xuất
 - Tính năng này để upload file excel và sheet điểm cần xuất.
 ### 2. Export 
